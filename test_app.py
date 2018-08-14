@@ -1,5 +1,5 @@
 from unittest import TestCase
 
 class Test(TestCase):
-    def test_get_all_question:
+    def test_get_all_question(self):
         pass
