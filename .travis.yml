@@ -9,6 +9,6 @@ install:
 
 
 script:
-- pytest --cov=test_app.py
+- pytest --cov=.
 after_success:
 - coveralls
